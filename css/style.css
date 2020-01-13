@@ -38,6 +38,16 @@ i {
 	font-style: normal;
 }
 
+a {
+  color: gray;
+}
+
+a:hover {
+  color: white;
+  background-color: gray;
+  text-decoration: none;
+}
+
 .entete-right {
 	height: 100%;
 }
