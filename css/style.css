@@ -30,8 +30,14 @@ body {
 	max-width: 90%;
 	max-height: 80%;
 	border-radius: .3rem;
-	display: block;
-	margin: auto;
+	width: auto;
+    height: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
 }
 
 i {
