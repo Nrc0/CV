@@ -1,8 +1,8 @@
 @media print {
-body {
-	padding: 0px;
-	width: 100%;
-}
+	body {
+		padding: 0px;
+		width: 100%;
+	}
 
 	.header, .blog-footer {
 		display: none;
@@ -10,5 +10,12 @@ body {
 
 	.entete {
 		margin-top: 0px;
+	}
+
+	.info_timeline ul li .con h5 {
+		margin-bottom: 0;
+	}
+	.info_timeline ul li .con p {
+		margin-bottom: 14px;
 	}
 }

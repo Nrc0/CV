@@ -40,6 +40,7 @@ i {
 
 a {
   color: gray;
+  text-decoration: none;
 }
 
 a:hover {
