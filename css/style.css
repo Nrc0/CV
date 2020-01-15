@@ -27,7 +27,7 @@ body {
 }
 
 .entete img {
-	max-width: 100%;
+	max-width: 90%;
 	max-height: 80%;
 	border-radius: .3rem;
 	display: block;
