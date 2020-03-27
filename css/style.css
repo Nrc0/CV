@@ -55,6 +55,10 @@ a:hover {
   text-decoration: none;
 }
 
+.list-group-item h6 {
+  margin: 0px;
+}
+
 .entete-right {
 	height: 100%;
 }
