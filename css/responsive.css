@@ -7,7 +7,9 @@
 	.header, .blog-footer {
 		display: none;
 	}
-
+	.card {
+		margin-bottom: 10px;
+	}
 	.entete {
 		margin-top: 0px;
 	}
